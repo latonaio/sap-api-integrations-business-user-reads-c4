@@ -1,0 +1,16 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-business-user-reads-c4/SAP_API_Caller/caller.go#L70",
+	"function": "sap-api-integrations-business-user-reads-c4/SAP_API_Caller.(*SAPAPICaller).BusinessUserCollection",
+	"level": "INFO",
+	"message": [
+		{
+			"ObjectID": "00163E05AE661ED38ED2B368952383835PARTNER_CONTACT_#$IBR$#_1",
+			"ParentObjectID": "00163E038C701ED298B0A06CCCA7F81B",
+			"EmployeeID": "7000002",
+			"UserID": "VINCENT",
+			"BusinessRoleID": "PARTNER_CONTACT",
+			"EntityLastChangedOn": "2015-05-06T22:35:43+09:00"
+		}
+	],
+	"time": "2022-05-01T21:19:30+09:00"
+}

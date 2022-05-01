@@ -1,0 +1,88 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-business-user-reads-c4/SAP_API_Caller/caller.go#L144",
+	"function": "sap-api-integrations-business-user-reads-c4/SAP_API_Caller.(*SAPAPICaller).BusinessRoleAssignment",
+	"level": "INFO",
+	"message": [
+		{
+			"ObjectID": "00163E03A0701EE288BA37FB8F7790A95SALES_REP_#$IBR$#_41",
+			"ParentObjectID": "00163E03A0701EE288BA37FB8F5F50A9",
+			"EmployeeID": "E1000",
+			"UserID": "USSALESREP01",
+			"BusinessRoleID": "SALES_REP",
+			"EntityLastChangedOn": "2020-05-06T15:42:46+09:00"
+		},
+		{
+			"ObjectID": "00163E03A0701EE288BA384A345910AA5SALES_REP_#$IBR$#_19",
+			"ParentObjectID": "00163E03A0701EE288BA384A3440D0AA",
+			"EmployeeID": "E1001",
+			"UserID": "USSALESREP02",
+			"BusinessRoleID": "SALES_REP",
+			"EntityLastChangedOn": "2020-05-06T15:42:46+09:00"
+		},
+		{
+			"ObjectID": "00163E03A0701EE288BA387992E050AA5SALES_REP_#$IBR$#_6",
+			"ParentObjectID": "00163E03A0701EE288BA387992C810AA",
+			"EmployeeID": "E1002",
+			"UserID": "USSALESREP03",
+			"BusinessRoleID": "SALES_REP",
+			"EntityLastChangedOn": "2020-05-06T15:42:46+09:00"
+		},
+		{
+			"ObjectID": "00163E03A0701EE288BA38B037A190AA5SALES_REP_#$IBR$#_6",
+			"ParentObjectID": "00163E03A0701EE288BA38B0378950AA",
+			"EmployeeID": "E1003",
+			"UserID": "USSALESREP04",
+			"BusinessRoleID": "SALES_REP",
+			"EntityLastChangedOn": "2020-05-06T15:42:46+09:00"
+		},
+		{
+			"ObjectID": "00163E03A0701EE288BA38E292FA90AA5SALES_REP_#$IBR$#_34",
+			"ParentObjectID": "00163E03A0701EE288BA38E292E250AA",
+			"EmployeeID": "E1004",
+			"UserID": "USSALESREP05",
+			"BusinessRoleID": "SALES_REP",
+			"EntityLastChangedOn": "2020-05-06T15:42:46+09:00"
+		},
+		{
+			"ObjectID": "00163E03A0701EE288BA395BE34910B45SALES_REP_#$IBR$#_6",
+			"ParentObjectID": "00163E03A0701EE288BA39361729B0B4",
+			"EmployeeID": "E1006",
+			"UserID": "USROCKSTAR01",
+			"BusinessRoleID": "SALES_REP",
+			"EntityLastChangedOn": "2020-05-06T15:56:45+09:00"
+		},
+		{
+			"ObjectID": "00163E03A0701EE288BA398C9CD3F0B55SALES_REP_#$IBR$#_6",
+			"ParentObjectID": "00163E03A0701EE288BA398C9CBBB0B5",
+			"EmployeeID": "E1007",
+			"UserID": "USROCKSTAR02",
+			"BusinessRoleID": "SALES_REP",
+			"EntityLastChangedOn": "2020-05-06T15:56:45+09:00"
+		},
+		{
+			"ObjectID": "00163E03A0701EE288BA3A1F53E730BA5SALES_REP_#$IBR$#_43",
+			"ParentObjectID": "00163E03A0701EE288BA3A1F53CE10BA",
+			"EmployeeID": "E1010",
+			"UserID": "DESALESREP01",
+			"BusinessRoleID": "SALES_REP",
+			"EntityLastChangedOn": "2020-05-06T19:33:56+09:00"
+		},
+		{
+			"ObjectID": "00163E03A0701EE288BA3A5778ECF0BA5SALES_REP_#$IBR$#_6",
+			"ParentObjectID": "00163E03A0701EE288BA3A5778D3D0BA",
+			"EmployeeID": "E1011",
+			"UserID": "DESALESREP02",
+			"BusinessRoleID": "SALES_REP",
+			"EntityLastChangedOn": "2020-05-06T19:34:55+09:00"
+		},
+		{
+			"ObjectID": "00163E03A0701EE288BA3A8495C5F0BA5SALES_REP_#$IBR$#_6",
+			"ParentObjectID": "00163E03A0701EE288BA3A8495ACD0BA",
+			"EmployeeID": "E1012",
+			"UserID": "DESALESREP03",
+			"BusinessRoleID": "SALES_REP",
+			"EntityLastChangedOn": "2020-05-06T19:35:48+09:00"
+		}
+	],
+	"time": "2022-05-01T21:29:12+09:00"
+}
